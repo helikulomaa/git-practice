@@ -6,4 +6,5 @@ kurkku
 juusto
 tofu
 päärynöitä
+omenoita
 

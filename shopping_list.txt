@@ -1,4 +1,4 @@
-kahvimaito
+kauramaito
 ruisleipää
 tomaatteja
 jugurtti
@@ -6,3 +6,4 @@ kurkku
 juusto
 tofu
 päärynöitä
+

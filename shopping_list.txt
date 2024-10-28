@@ -5,3 +5,4 @@ jugurtti
 kurkku
 juusto
 tofu
+omenoita
